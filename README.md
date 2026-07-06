@@ -3,7 +3,9 @@
 A structured, comprehensive data analysis project designed to inspect, clean, and visualize the Titanic dataset. This project explores key factors influencing passenger survival rates, such as socio-economic status (class), gender, age, fare, family size on board, and embarkation port using Python, Pandas, Matplotlib, and Seaborn.
 
 Both a standalone Python script (`Final_project.py`) and a Jupyter Notebook (`Titanic.ipynb`) are provided for flexible execution.
+<br>
 
+<a href="https://drive.google.com/file/d/1j-nHn2oMmeaVDsFM1Da40uxN0z5I-_J_/view?usp=sharing">Video of this final project</a>
 ---
 
 ## 📁 Repository Structure
